@@ -11,7 +11,7 @@ This library provides threads on microcontrollers such as arduino
 To add libraries on arduino ide check this [guide](https://www.arduino.cc/en/guide/libraries)
 
 # Documentation
-- Check the wiki [beta](/wiki) 
+- Check the wiki [beta](https://github.com/linoestevao/Arduino-Thread/wiki) 
 
 ### Version
 0.9.0
