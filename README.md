@@ -15,3 +15,7 @@ Restart Arduino ide
 ### Version
 0.0.1
 
+#License
+See the [LICENSE](/LICENSE.txt) file for license rights and limitations (GPLV2)
+
+
