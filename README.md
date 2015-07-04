@@ -16,6 +16,6 @@ To add libraries on arduino ide check this [guide](https://www.arduino.cc/en/gui
 0.0.1
 
 #License
-See the [LICENSE](/LICENSE.txt) file for license rights and limitations (GPLV2)
+See the [LICENSE](/LICENSE.md) file for license rights and limitations (GPLV2)
 
 
