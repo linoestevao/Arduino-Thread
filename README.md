@@ -8,9 +8,9 @@ This library provides threads on microcontrollers such as arduino
 - high abstraction layer on threads. Only create a thread, start it and forget about
 
 # Instalation
+To add libraries on arduino ide check this [guide](https://www.arduino.cc/en/guide/libraries)
 
-clone on ".../Arduino/library/" workspace
-Restart Arduino ide
+
 
 ### Version
 0.0.1
