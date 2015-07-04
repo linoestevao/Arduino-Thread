@@ -1,0 +1,23 @@
+ #######################################
+# Syntax Coloring Map For TimerOne
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SLWT							KEYWORD1
+lwthread						KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Start							KEYWORD2
+Stop							KEYWORD2
+init							KEYWORD2
+handle_run						KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
