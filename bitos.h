@@ -29,7 +29,7 @@ bitos.h - Provide all the instructions for the pre-processor to compile the code
 
 //Self explanatory :3
 #define MAXTHREADSPERPROCESS 30
-#define MAXTHREADS 30
+#define MAXTHREADS 10
 
 #include "lwthread.h"
 #include "SLWT.h"
